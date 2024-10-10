@@ -12,7 +12,7 @@ title                    : "Hyunho Kim's homepage"
 title_separator          : "-"
 name                     : &name "Hyunho Kim"
 description              : &description "personal description"
-url                      : "https://hyunho.kim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hyunho.kim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sunset222/hyunho.kim.github.io"
 
